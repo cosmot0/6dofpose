@@ -1,5 +1,6 @@
 # 6dofpose
 
+<<<<<<< HEAD
 **Here's data about 6 DoF pose excise**
 
 
@@ -23,3 +24,11 @@
 * add svg, mp4, pptx ETC
 
 2018/12/21 *third upload and modify
+=======
+6DoF Data Test 2018/12/12 first upload
+
+*6DoF* Pose
+
+6dofpose upload 2018/12/14 second upload
+
+>>>>>>> e68e7f41ca20145866191fe6b6e9d4126dafb919
