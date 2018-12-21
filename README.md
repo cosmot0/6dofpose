@@ -7,8 +7,14 @@
 * cobra shape
 <img height = "200" src="https://github.com/cosmot0/6dofpose/blob/master/data/Stream_181205_152946_screen.png"/>
 
+<img height = "200" src="https://github.com/cosmot0/6dofpose/blob/master/capture/pose1.png"/>
+
+
+
 * spiral shape
-<img height = "200" src="https://github.com/cosmot0/6dofpose/blob/master/data/Stream_181205_153029_screen.png"/>
+<img height = "400" src="https://github.com/cosmot0/6dofpose/blob/master/data/Stream_181205_153029_screen.png"/>
+
+<img height = "400" src="https://github.com/cosmot0/6dofpose/blob/master/capture/pose2.png"/>
 
 
 
